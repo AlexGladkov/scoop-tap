@@ -1,12 +1,12 @@
 {
-    "version": "0.34.0",
+    "version": "0.35.0",
     "description": "CLI-first AI infrastructure marketplace for the Russian engineering market",
     "homepage": "https://github.com/AlexGladkov/tokenplace",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AlexGladkov/homebrew-tap/releases/download/tokenplace-v0.34.0/tokenplace-0.34.0-x86_64-pc-windows-msvc.zip",
-            "hash": "acad45f4a74cbd2e2a35d15999f4543e4092fd37302a667cadd73313f2173062"
+            "url": "https://github.com/AlexGladkov/homebrew-tap/releases/download/tokenplace-v0.35.0/tokenplace-0.35.0-x86_64-pc-windows-msvc.zip",
+            "hash": "11a92d28340f1be0683c7de2b1912420fbbf24db50a4abfdc915f851dc5806bb"
         }
     },
     "bin": [
